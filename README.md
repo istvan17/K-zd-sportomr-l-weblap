@@ -1,0 +1,1 @@
+A weboldal alapja gitről van amitt nyomós mértékben változtattam meg a saját igényem szerint hogy megfeleljen a Figmán saját magamtól elkészített designhez. Készült:2023 december 28. órai projektfeladatként.
